@@ -1,0 +1,22 @@
+import './jquery';
+import './bootstrap.min';
+import './owl.carousel.min.js';
+import './jquery.mixitup.min.js';
+import './jquery.fancybox.pack.js';
+import './imagezoom.js';
+import './jquery.polyglot.language.switcher.js';
+import './SmoothScroll.js';
+import './jquery.appear.js';
+import './jquery.countTo.js';
+import './wow.js';
+import './jquery.fitvids.js';
+import './nouislider.js';
+
+import '../images/slider/2.jpg';
+import '../images/children1.jpg';
+import '../images/children2.jpg';
+import '../images/children3.jpg';
+import '../images/children4.jpg';
+import '../images/children5.jpg';
+import '../images/children6.jpg';
+import '../images/logo/logo.png';

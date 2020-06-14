@@ -1,22 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a213dd86-33dd-41f8-97b6-8d3cfd8a8bfe" name="Default Changelist" comment="" />
+    <list default="true" id="a213dd86-33dd-41f8-97b6-8d3cfd8a8bfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/blog-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/cause-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/event-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/gallery-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-large.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cause-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cause-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cause-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cause.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/author2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/feedbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/l1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/l2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/l3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/l4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/thumb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/thumb4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/thumb5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/thumb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/thumb7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cause/t4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/event/t4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flags/de.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flags/es.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flags/fr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flags/gb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flags/it.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/project/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/thumb1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop/thumb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/author1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/author2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/author3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/t8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-cause.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/volunteer.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bTBPD9ApnMlgSYT1bhFouixpJQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.9.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,10 +240,51 @@
       <updated>1588646176297</updated>
       <workItem from="1588646180491" duration="2181000" />
       <workItem from="1588885493972" duration="601000" />
+      <workItem from="1589980938686" duration="631000" />
+      <workItem from="1589982755655" duration="2089000" />
+      <workItem from="1590055247803" duration="25000" />
+      <workItem from="1590296143560" duration="2034000" />
+      <workItem from="1590306064551" duration="6116000" />
+      <workItem from="1590531373692" duration="925000" />
+      <workItem from="1590636522155" duration="599000" />
+      <workItem from="1591074422296" duration="3888000" />
+      <workItem from="1591092434408" duration="5461000" />
+      <workItem from="1591100630037" duration="1020000" />
+      <workItem from="1591104226423" duration="119000" />
+      <workItem from="1591104412099" duration="888000" />
+      <workItem from="1591532862347" duration="4244000" />
+      <workItem from="1591537221693" duration="2150000" />
+      <workItem from="1591605993365" duration="167000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="172" key="#JavaScript" timestamp="1591533517787">
+      <screen x="0" y="24" width="1440" height="876" />
+    </state>
+    <state x="440" y="172" key="#JavaScript/0.24.1440.876@0.24.1440.876" timestamp="1591533517787" />
+    <state x="372" y="266" width="686" height="391" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591536685586">
+      <screen x="0" y="24" width="1440" height="876" />
+    </state>
+    <state x="372" y="266" width="686" height="391" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1440.876@0.24.1440.876" timestamp="1591536685586" />
+    <state x="518" y="268" width="393" height="387" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591100856393">
+      <screen x="0" y="24" width="1440" height="876" />
+    </state>
+    <state x="518" y="268" width="393" height="387" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1440.876@0.24.1440.876" timestamp="1591100856393" />
+    <state x="524" y="277" key="FileChooserDialogImpl" timestamp="1591105428574">
+      <screen x="0" y="24" width="1440" height="876" />
+    </state>
+    <state x="524" y="277" key="FileChooserDialogImpl/0.24.1440.876@0.24.1440.876" timestamp="1591105428574" />
+    <state x="302" y="184" key="SettingsEditor" timestamp="1591104671950">
+      <screen x="0" y="24" width="1440" height="876" />
+    </state>
+    <state x="302" y="184" key="SettingsEditor/0.24.1440.876@0.24.1440.876" timestamp="1591104671950" />
+    <state x="455" y="219" width="528" height="399" key="search.everywhere.popup" timestamp="1591535641987">
+      <screen x="0" y="24" width="1440" height="876" />
+    </state>
+    <state x="455" y="219" width="528" height="399" key="search.everywhere.popup/0.24.1440.876@0.24.1440.876" timestamp="1591535641987" />
   </component>
 </project>

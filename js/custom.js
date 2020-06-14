@@ -412,10 +412,19 @@ function scroltotop () {
 	}
 
 
+	$('.donate-now').on('hover',function(){
+		alert('you just hovered');
+	});
+
 	if($('#donate-popup').length){
+
 
 		//Show Popup
 		$('.donate-box-btn').click(function() {
+			$('#donate-popup').addClass('popup-visible');
+		});
+
+		$('.donate-now').click(function() {
 			$('#donate-popup').addClass('popup-visible');
 		});
 
